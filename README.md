@@ -8,3 +8,9 @@
 
 
 ![win1](https://github.com/LeitAtar/Assembly-DOS-SimonGame/assets/121393718/cff30742-1980-4b9a-822a-f33dfdf8a411)
+
+
+
+
+Uploading vid1.mp4…
+
