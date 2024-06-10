@@ -14,3 +14,4 @@
 
 Uploading vid1.mp4…
 
+![dos1](https://github.com/LeitAtar/Assembly-DOS-SimonGame/assets/121393718/8711881d-daab-4376-9e60-a073c2ae745c)
