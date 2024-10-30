@@ -76,6 +76,8 @@ To run this game, you'll need:
 
    After running `simon.exe`, you'll see the title screen with instructions.
 
+   ![Title Screen](attachment://file-4isWFnSUmGpnXB1B9QHoBIe3)
+
 2. **Understand the Keys**:
 
    - **q** = Green
@@ -88,10 +90,18 @@ To run this game, you'll need:
 
    - **Press ENTER to Start**: Begin your Simon game adventure!
    - **Watch the Sequence**: The game will display a sequence of keys.
+
+     ![Game Sequence Display](attachment://file-yOL9hNpX8qgzwpCBrrr1khfh)
+
    - **Repeat the Sequence**: Input the keys in the same order.
    - **Progress**: The sequence gets longer each round. How far can you go?
    - **Victory**: Successfully recall sequences to win.
+
+     ![Victory Screen](attachment://file-l7X6Y3dKHwDZkq4OFLMsSfbE)
+
    - **Defeat**: Inputting the wrong key ends the game.
+
+     ![Defeat Screen](attachment://file-7M1Z8v8GaWxcqjzi286bcV2u)
 
 4. **Exit the Game**:
 
@@ -101,6 +111,8 @@ To run this game, you'll need:
 ---
 
 ## 🖼️ Gameplay Preview
+
+![Assembling and Running the Game](attachment://file-98EKORmthpWyw0DFd8e2nf0f)
 
 *Since we can't include actual screenshots here, imagine a glorious DOS interface with colorful blocks representing the keys! Use your imagination, or better yet, run the game!* 🌟
 
@@ -134,30 +146,3 @@ Have questions or just want to say hi? Reach out!
 **Enjoy the game and may the memory be ever in your favor!** 🧠🎉
 
 *Happy coding and gaming!* 👾
-
-
-
-
-
-
-
-
-
-
-![screen1](https://github.com/LeitAtar/Assembly-DOS-SimonGame/assets/121393718/49991269-e3b4-47ae-be95-1bd1bb07e62f)
-
-
-![gameloop1](https://github.com/LeitAtar/Assembly-DOS-SimonGame/assets/121393718/9be2c186-05f3-4d8e-b45b-38d08960ca9a)
-
-
-![lose1](https://github.com/LeitAtar/Assembly-DOS-SimonGame/assets/121393718/e08f4cd2-e615-44ad-a9d2-bb8f5328f1a7)
-
-
-![win1](https://github.com/LeitAtar/Assembly-DOS-SimonGame/assets/121393718/cff30742-1980-4b9a-822a-f33dfdf8a411)
-
-
-
-
-
-
-![dos1](https://github.com/LeitAtar/Assembly-DOS-SimonGame/assets/121393718/8711881d-daab-4376-9e60-a073c2ae745c)
