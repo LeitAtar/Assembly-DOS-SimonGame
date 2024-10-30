@@ -12,7 +12,7 @@ Welcome to the assembly-coded wonderland of **SIMON**! Are you ready to test you
   - [📋 Prerequisites](#-prerequisites)
   - [💾 Installation](#-installation)
 - [🎮 How to Play](#-how-to-play)
-- [🖼️ Gameplay Preview](#gameplay-preview)
+- [🖼️ Gameplay Preview](#-gameplay-preview)
 - [🤔 Contributing](#-contributing)
 - [💄 License](#-license)
 - [📨 Contact](#-contact)
