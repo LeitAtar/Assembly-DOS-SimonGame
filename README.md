@@ -99,7 +99,7 @@ To hop into this time machine and play SIMON, you'll need:
    - **Press ENTER to Start**: And let the fun begin! 🚀
    - **Watch the Sequence**: The game will show you a sequence of keys. Keep those eyes peeled! 👀
 
-     ![Game Sequence Display](assets/game_sequence.png)
+      ![Game Sequence Display](https://github.com/user-attachments/assets/68e83645-4f5b-450f-883c-b7aac83c0354)
 
    - **Repeat the Sequence**: Got it memorized? Now it's your turn! Tap those keys! ⌨️✨
    - **Progress**: Each round, the sequence gets longer, and your brain gets a bigger workout! How far can you go before your memory says “nope”? 🤯
