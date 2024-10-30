@@ -76,7 +76,8 @@ To run this game, you'll need:
 
    After running `simon.exe`, you'll see the title screen with instructions.
 
-   ![Title Screen](images/title_screen.png)
+   ![Title_Screen](https://github.com/user-attachments/assets/d51e03ba-acb6-40b9-b64e-63d0d2ebd2b1)
+
 
 2. **Understand the Keys**:
 
@@ -91,7 +92,8 @@ To run this game, you'll need:
    - **Press ENTER to Start**: Begin your Simon game adventure!
    - **Watch the Sequence**: The game will display a sequence of keys.
 
-     ![Game Sequence Display](images/game_sequence.png)
+     ![Game Sequence Display](https://github.com/user-attachments/assets/68e83645-4f5b-450f-883c-b7aac83c0354)
+
 
    - **Repeat the Sequence**: Input the keys in the same order.
    - **Progress**: The sequence gets longer each round. How far can you go?
