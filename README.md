@@ -1,9 +1,3 @@
-Sure! The issue arises because the emojis at the beginning of the headings affect the automatic generation of anchor links in Markdown. To fix this, we'll add explicit anchor IDs to the headings to ensure the links in the Table of Contents work correctly.
-
-Here's the updated content with fixed anchor links:
-
----
-
 # 🎮 SIMON - The Classic Memory Game in Assembly! 🕹️
 
 Welcome to the assembly-coded wonderland of **SIMON**! Are you ready to test your memory skills and relive some retro magic? This game isn't just about winning—it's about embracing the pure, unfiltered awesomeness of assembly coding. So grab your virtual joystick, and let’s jump into this nostalgic ride! 🚀✨
@@ -12,28 +6,28 @@ Welcome to the assembly-coded wonderland of **SIMON**! Are you ready to test you
 
 ## 📚 Table of Contents
 
-- [🌟 About the Game](#about-the-game)
-- [✨ Features](#features)
-- [🔧 Getting Started](#getting-started)
-  - [📋 Prerequisites](#prerequisites)
-  - [💾 Installation](#installation)
-- [🎮 How to Play](#how-to-play)
-- [🖼️ Gameplay Preview](#gameplay-preview)
-- [🤔 Contributing](#contributing)
-- [💄 License](#license)
-- [📨 Contact](#contact)
+- [🌟 About the Game](#-about-the-game)
+- [✨ Features](#-features)
+- [🔧 Getting Started](#-getting-started)
+  - [📋 Prerequisites](#-prerequisites)
+  - [💾 Installation](#-installation)
+- [🎮 How to Play](#-how-to-play)
+- [🖼️ Gameplay Preview](#-gameplay-preview)
+- [🤔 Contributing](#-contributing)
+- [💄 License](#-license)
+- [📨 Contact](#-contact)
 
 ---
 
-## 🌟 About the Game {#about-the-game}
+## 🌟 About the Game
 
-**SIMON** is the classic memory game we all know and love—brought back to life in Assembly language for DOS! 🖥️✨ Your mission, should you choose to accept it, is to remember and repeat increasingly complex sequences of keys. It's more than a game; it's an 8-bit retro party for your brain! 🎉
+**SIMON** is the classic memory game we all know and love—brought back to life in Assembly language for DOS! 🖥️✨ Your mission, should you choose to accept it, is to remember and repeat increasingly complex sequences of keys. It's more than a game; it's an 8-bit retro party for your brain! 🎉🝺
 
 Think you're up for the challenge? Put your memory to the ultimate test and let's find out! 🧠💪
 
 ---
 
-## ✨ Features {#features}
+## ✨ Features
 
 - **Pure Assembly Code**: Forget about fancy high-level programming—this game is made from scratch with the raw magic of assembly! 💻🧤
 - **Interactive Gameplay**: Think you have what it takes to follow the sequence? SIMON is here to put you to the test! 🕰️
@@ -43,9 +37,9 @@ Think you're up for the challenge? Put your memory to the ultimate test and let'
 
 ---
 
-## 🔧 Getting Started {#getting-started}
+## 🔧 Getting Started
 
-### 📋 Prerequisites {#prerequisites}
+### 📋 Prerequisites
 
 To hop into this time machine and play SIMON, you'll need:
 
@@ -53,7 +47,7 @@ To hop into this time machine and play SIMON, you'll need:
 - An assembler like **MASM** or **TASM**. (Gotta get those assembly vibes!) 🔧
 - Basic knowledge of how to assemble and run assembly programs. You got this! 💪
 
-### 💾 Installation {#installation}
+### 💾 Installation
 
 1. **Clone the Repository**:
 
@@ -84,7 +78,7 @@ To hop into this time machine and play SIMON, you'll need:
 
 ---
 
-## 🎮 How to Play {#how-to-play}
+## 🎮 How to Play
 
 1. **Start the Game**:
 
@@ -124,7 +118,7 @@ To hop into this time machine and play SIMON, you'll need:
 
 ---
 
-## 🖼️ Gameplay Preview {#gameplay-preview}
+## 🖼️ Gameplay Preview
 
 Check out the action behind the scenes! 👀🎜
 
@@ -132,7 +126,7 @@ Check out the action behind the scenes! 👀🎜
 
 ---
 
-## 🤔 Contributing {#contributing}
+## 🤔 Contributing
 
 Think you can make SIMON even more awesome? We'd love your help!
 
@@ -142,13 +136,13 @@ Think you can make SIMON even more awesome? We'd love your help!
 
 ---
 
-## 💄 License {#license}
+## 💄 License
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to make it your own! 📝💖
 
 ---
 
-## 📨 Contact {#contact}
+## 📨 Contact
 
 Got questions, want to collaborate, or just feel like saying hi? We're all ears! 👂
 
@@ -160,13 +154,3 @@ Got questions, want to collaborate, or just feel like saying hi? We're all ears!
 **Enjoy the game and may your memory be unbeatable!** 🧠🎉
 
 *Happy coding and gaming!* 👾💙
-
----
-
-**Notes:**
-
-- **Fixed Anchor Links**: Added explicit `{#anchor-name}` to each heading to ensure the anchor links in the Table of Contents work correctly.
-- **Updated Image Links**: Replaced the broken image URLs with placeholders like `assets/title_screen.png`. Make sure to place your image files in an `assets` folder and update the paths accordingly.
-- **Consistency**: Ensured that all headings and links are consistent and functional.
-
-Feel free to copy this updated content into your README file. If you have any further questions or need additional assistance, don't hesitate to ask!
