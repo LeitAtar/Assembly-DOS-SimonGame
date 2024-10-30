@@ -84,7 +84,7 @@ To hop into this time machine and play SIMON, you'll need:
 
    After running `simon.exe`, you'll be greeted by the legendary title screen. Get ready for the ultimate brain workout! 💥
 
-   ![Title_Screen](assets/title_screen.png)
+   ![Title_Screen](https://github.com/user-attachments/assets/d51e03ba-acb6-40b9-b64e-63d0d2ebd2b1)
 
 2. **Understand the Keys**:
 
@@ -99,17 +99,17 @@ To hop into this time machine and play SIMON, you'll need:
    - **Press ENTER to Start**: And let the fun begin! 🚀
    - **Watch the Sequence**: The game will show you a sequence of keys. Keep those eyes peeled! 👀
 
-     ![Game Sequence Display](assets/game_sequence.png)
+     ![Game Sequence Display](https://github.com/user-attachments/assets/68e83645-4f5b-450f-883c-b7aac83c0354)
 
    - **Repeat the Sequence**: Got it memorized? Now it's your turn! Tap those keys! ⌨️✨
    - **Progress**: Each round, the sequence gets longer, and your brain gets a bigger workout! How far can you go before your memory says “nope”? 🤯
    - **Victory**: Nailed it? Awesome! Revel in your moment of triumph! 🎉🏆
 
-     ![Victory Screen](assets/victory_screen.png)
+     ![Victory Screen](https://github.com/user-attachments/assets/d09ce3bc-ccac-4d4a-92c7-372a14111fb7)
 
    - **Defeat**: Slip up? Don’t worry, it happens to the best of us! Dust yourself off and try again! 💔🕰️
 
-     ![Defeat Screen](assets/defeat_screen.png)
+     ![Defeat Screen](https://github.com/user-attachments/assets/8bcee6f2-5488-4ccb-bad4-2356034d65c4)
 
 4. **Exit the Game**:
 
@@ -122,7 +122,7 @@ To hop into this time machine and play SIMON, you'll need:
 
 Check out the action behind the scenes! 👀🎜
 
-![Assembling and Running the Game](assets/assembling_and_running.png)
+![Assembling and Running the Game](https://github.com/user-attachments/assets/a813b2bc-2820-4e93-8bcd-4246a02d630c)
 
 ---
 
