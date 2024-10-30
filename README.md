@@ -6,16 +6,16 @@ Welcome to the assembly-coded wonderland of **SIMON**! Are you ready to test you
 
 ## 📚 Table of Contents
 
-- [🌟 About the Game](#%f0%9f%8c%9f-about-the-game)
-- [✨ Features](#%e2%9c%a8-features)
-- [🔧 Getting Started](#%f0%9f%9b%a0%ef%b8%8f-getting-started)
-  - [📋 Prerequisites](#%f0%9f%93%8b-prerequisites)
-  - [💾 Installation](#%f0%9f%92%be-installation)
-- [🎮 How to Play](#%f0%9f%8e%ae-how-to-play)
-- [🖼️ Gameplay Preview](#%f0%9f%96%bc%ef%b8%8f-gameplay-preview)
-- [🤔 Contributing](#%f0%9f%a4%94-contributing)
-- [💄 License](#%f0%9f%93%84-license)
-- [📨 Contact](#%f0%9f%93%ac-contact)
+- [🌟 About the Game](#-about-the-game)
+- [✨ Features](#-features)
+- [🔧 Getting Started](#-getting-started)
+  - [📋 Prerequisites](#-prerequisites)
+  - [💾 Installation](#-installation)
+- [🎮 How to Play](#-how-to-play)
+- [🖼️ Gameplay Preview](#-gameplay-preview)
+- [🤔 Contributing](#-contributing)
+- [💄 License](#-license)
+- [📨 Contact](#-contact)
 
 ---
 
