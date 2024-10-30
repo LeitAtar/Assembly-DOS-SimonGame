@@ -4,24 +4,24 @@ Welcome to the assembly-coded wonderland of **SIMON**! Are you ready to test you
 
 ---
 
-## 📖 Table of Contents
+## 📚 Table of Contents
 
-- [🌟 About the Game](#-🌟-about-the-game)
-- [✨ Features](#-✨-features)
-- [🛠️ Getting Started](#-🛠️-getting-started)
-  - [📋 Prerequisites](#-📋-prerequisites)
-  - [💾 Installation](#-💾-installation)
-- [🎮 How to Play](#-🎮-how-to-play)
-- [🖼️ Gameplay Preview](#-🖼️-gameplay-preview)
-- [🤔 Contributing](#-🤔-contributing)
-- [📄 License](#-📄-license)
-- [📬 Contact](#-📬-contact)
+- [🌟 About the Game](#%f0%9f%8c%9f-about-the-game)
+- [✨ Features](#%e2%9c%a8-features)
+- [🔧 Getting Started](#%f0%9f%9b%a0%ef%b8%8f-getting-started)
+  - [📋 Prerequisites](#%f0%9f%93%8b-prerequisites)
+  - [💾 Installation](#%f0%9f%92%be-installation)
+- [🎮 How to Play](#%f0%9f%8e%ae-how-to-play)
+- [🖼️ Gameplay Preview](#%f0%9f%96%bc%ef%b8%8f-gameplay-preview)
+- [🤔 Contributing](#%f0%9f%a4%94-contributing)
+- [💄 License](#%f0%9f%93%84-license)
+- [📨 Contact](#%f0%9f%93%ac-contact)
 
 ---
 
 ## 🌟 About the Game
 
-**SIMON** is the classic memory game we all know and love—brought back to life in Assembly language for DOS! 🖥️✨ Your mission, should you choose to accept it, is to remember and repeat increasingly complex sequences of keys. It's more than a game; it's an 8-bit retro party for your brain! 🎉🕺
+**SIMON** is the classic memory game we all know and love—brought back to life in Assembly language for DOS! 🖥️✨ Your mission, should you choose to accept it, is to remember and repeat increasingly complex sequences of keys. It's more than a game; it's an 8-bit retro party for your brain! 🎉🝺
 
 Think you're up for the challenge? Put your memory to the ultimate test and let's find out! 🧠💪
 
@@ -29,22 +29,22 @@ Think you're up for the challenge? Put your memory to the ultimate test and let'
 
 ## ✨ Features
 
-- **Pure Assembly Code**: Forget about fancy high-level programming—this game is made from scratch with the raw magic of assembly! 💻🪄
-- **Interactive Gameplay**: Think you have what it takes to follow the sequence? SIMON is here to put you to the test! 🔄
+- **Pure Assembly Code**: Forget about fancy high-level programming—this game is made from scratch with the raw magic of assembly! 💻🧤
+- **Interactive Gameplay**: Think you have what it takes to follow the sequence? SIMON is here to put you to the test! 🕰️
 - **Colorful Interface**: Okay, maybe “colorful” by DOS standards... but hey, it's got character! 🌈😉
 - **Sound Effects**: Beeps, boops, and bloops—classic gaming sounds to make you feel right at home! 🔊🎶
 - **Retro Vibes**: Immerse yourself in the nostalgia of yesteryear, when floppy disks ruled and graphics were... well, simpler. 😎🕹️
 
 ---
 
-## 🛠️ Getting Started
+## 🔧 Getting Started
 
 ### 📋 Prerequisites
 
 To hop into this time machine and play SIMON, you'll need:
 
 - A DOS emulator like [DOSBox](https://www.dosbox.com/). Yep, we're going old-school! 💾
-- An assembler like **MASM** or **TASM**. (Gotta get those assembly vibes!) 🛠️
+- An assembler like **MASM** or **TASM**. (Gotta get those assembly vibes!) 🔧
 - Basic knowledge of how to assemble and run assembly programs. You got this! 💪
 
 ### 💾 Installation
@@ -59,7 +59,7 @@ To hop into this time machine and play SIMON, you'll need:
 
 2. **Assemble the Code**:
 
-   Open your DOS emulator and navigate to the game directory. Time to work your magic! 🧙‍♂️
+   Open your DOS emulator and navigate to the game directory. Time to work your magic! 🦉
 
    ```bash
    masm simon.asm;
@@ -84,7 +84,7 @@ To hop into this time machine and play SIMON, you'll need:
 
    After running `simon.exe`, you'll be greeted by the legendary title screen. Get ready for the ultimate brain workout! 💥
 
-   ![Title_Screen](https://github.com/user-attachments/assets/d51e03ba-acb6-40b9-b64e-63d0d2ebd2b1)
+   ![Title_Screen](assets/title_screen.png)
 
 2. **Understand the Keys**:
 
@@ -99,17 +99,17 @@ To hop into this time machine and play SIMON, you'll need:
    - **Press ENTER to Start**: And let the fun begin! 🚀
    - **Watch the Sequence**: The game will show you a sequence of keys. Keep those eyes peeled! 👀
 
-     ![Game Sequence Display](https://github.com/user-attachments/assets/68e83645-4f5b-450f-883c-b7aac83c0354)
+     ![Game Sequence Display](assets/game_sequence.png)
 
    - **Repeat the Sequence**: Got it memorized? Now it's your turn! Tap those keys! ⌨️✨
    - **Progress**: Each round, the sequence gets longer, and your brain gets a bigger workout! How far can you go before your memory says “nope”? 🤯
    - **Victory**: Nailed it? Awesome! Revel in your moment of triumph! 🎉🏆
 
-     ![Victory Screen](https://github.com/user-attachments/assets/d09ce3bc-ccac-4d4a-92c7-372a14111fb7)
+     ![Victory Screen](assets/victory_screen.png)
 
-   - **Defeat**: Slip up? Don’t worry, it happens to the best of us! Dust yourself off and try again! 💔🔄
+   - **Defeat**: Slip up? Don’t worry, it happens to the best of us! Dust yourself off and try again! 💔🕰️
 
-     ![Defeat Screen](https://github.com/user-attachments/assets/8bcee6f2-5488-4ccb-bad4-2356034d65c4)
+     ![Defeat Screen](assets/defeat_screen.png)
 
 4. **Exit the Game**:
 
@@ -120,9 +120,9 @@ To hop into this time machine and play SIMON, you'll need:
 
 ## 🖼️ Gameplay Preview
 
-Check out the action behind the scenes! 👀🎬
+Check out the action behind the scenes! 👀🎜
 
-![Assembling and Running the Game](https://github.com/user-attachments/assets/a813b2bc-2820-4e93-8bcd-4246a02d630c)
+![Assembling and Running the Game](assets/assembling_and_running.png)
 
 ---
 
@@ -132,17 +132,17 @@ Think you can make SIMON even more awesome? We'd love your help!
 
 - **Report Bugs**: If you spot a glitch, shout it out! 🐛📢
 - **Enhance Features**: Have an idea for a new twist? Code it up and submit a pull request! 💡🚀
-- **Optimize Code**: Attention, assembly wizards! If you know how to make this faster or cleaner, we want you! 🧙‍♀️✨
+- **Optimize Code**: Attention, assembly wizards! If you know how to make this faster or cleaner, we want you! 🧝‍♀️✨
 
 ---
 
-## 📄 License
+## 💄 License
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to make it your own! 📝💖
 
 ---
 
-## 📬 Contact
+## 📨 Contact
 
 Got questions, want to collaborate, or just feel like saying hi? We're all ears! 👂
 
