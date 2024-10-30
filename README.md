@@ -12,7 +12,7 @@ Welcome to the assembly-coded wonderland of **SIMON**! Are you ready to test you
   - [📋 Prerequisites](#-prerequisites)
   - [💾 Installation](#-installation)
 - [🎮 How to Play](#-how-to-play)
-- [🖼️ Gameplay Preview](#-gameplay-preview)
+- [🖼️ Gameplay Preview](#gameplay-preview)
 - [🤔 Contributing](#-contributing)
 - [💄 License](#-license)
 - [📨 Contact](#-contact)
@@ -21,7 +21,7 @@ Welcome to the assembly-coded wonderland of **SIMON**! Are you ready to test you
 
 ## 🌟 About the Game
 
-**SIMON** is the classic memory game we all know and love—brought back to life in Assembly language for DOS! 🖥️✨ Your mission, should you choose to accept it, is to remember and repeat increasingly complex sequences of keys. It's more than a game; it's an 8-bit retro party for your brain! 🎉🝺
+**SIMON** is the classic memory game we all know and love—brought back to life in Assembly language for DOS! 🖥️✨ Your mission, should you choose to accept it, is to remember and repeat increasingly complex sequences of keys. It's more than a game; it's an 8-bit retro party for your brain! 🎉
 
 Think you're up for the challenge? Put your memory to the ultimate test and let's find out! 🧠💪
 
@@ -120,7 +120,7 @@ To hop into this time machine and play SIMON, you'll need:
 
 ## 🖼️ Gameplay Preview
 
-Check out the action behind the scenes! 👀🎜
+Check out the action behind the scenes! 👀🎮
 
 ![Assembling and Running the Game](assets/gameplay_preview.png)
 
