@@ -99,11 +99,13 @@ To run this game, you'll need:
    - **Progress**: The sequence gets longer each round. How far can you go?
    - **Victory**: Successfully recall sequences to win.
 
-     ![Victory Screen](images/victory_screen.png)
+     ![Victory Screen](https://github.com/user-attachments/assets/d09ce3bc-ccac-4d4a-92c7-372a14111fb7)
+
 
    - **Defeat**: Inputting the wrong key ends the game.
 
-     ![Defeat Screen](images/defeat_screen.png)
+     ![Defeat Screen](https://github.com/user-attachments/assets/8bcee6f2-5488-4ccb-bad4-2356034d65c4)
+
 
 4. **Exit the Game**:
 
@@ -114,7 +116,8 @@ To run this game, you'll need:
 
 ## 🖼️ Gameplay Preview
 
-![Assembling and Running the Game](images/assembling_running.png)
+![Assembling and Running the Game](https://github.com/user-attachments/assets/a813b2bc-2820-4e93-8bcd-4246a02d630c)
+
 
 ---
 
@@ -138,8 +141,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Have questions or just want to say hi? Reach out!
 
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: dean97531@gmail.com
+- **GitHub**: [LeitAtar](https://github.com/LeitAtar)
 
 ---
 
