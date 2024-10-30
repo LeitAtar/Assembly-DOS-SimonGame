@@ -4,7 +4,7 @@ Welcome to the assembly-coded world of **SIMON**! Get ready to challenge your me
 
 ---
 
-## 📚 Table of Contents
+## 📖 Table of Contents
 
 - [About the Game](#about-the-game)
 - [Features](#features)
@@ -19,7 +19,7 @@ Welcome to the assembly-coded world of **SIMON**! Get ready to challenge your me
 
 ---
 
-## 🌜 About the Game
+## 🌟 About the Game
 
 **SIMON** is a classic memory game where players must recall and reproduce a sequence of colors (or in this case, keys). Built entirely in Assembly language for DOS, this game is a nostalgic trip back to the early days of computing. It's not just a game; it's an experience! 🎉
 
@@ -35,7 +35,7 @@ Welcome to the assembly-coded world of **SIMON**! Get ready to challenge your me
 
 ---
 
-## 🪠 Getting Started
+## 🛠️ Getting Started
 
 ### 📋 Prerequisites
 
@@ -76,7 +76,7 @@ To run this game, you'll need:
 
    After running `simon.exe`, you'll see the title screen with instructions.
 
-   ![Title Screen](attachment://file-4isWFnSUmGpnXB1B9QHoBIe3)
+   ![Title Screen](images/title_screen.png)
 
 2. **Understand the Keys**:
 
@@ -91,17 +91,17 @@ To run this game, you'll need:
    - **Press ENTER to Start**: Begin your Simon game adventure!
    - **Watch the Sequence**: The game will display a sequence of keys.
 
-     ![Game Sequence Display](attachment://file-yOL9hNpX8qgzwpCBrrr1khfh)
+     ![Game Sequence Display](images/game_sequence.png)
 
    - **Repeat the Sequence**: Input the keys in the same order.
    - **Progress**: The sequence gets longer each round. How far can you go?
    - **Victory**: Successfully recall sequences to win.
 
-     ![Victory Screen](attachment://file-l7X6Y3dKHwDZkq4OFLMsSfbE)
+     ![Victory Screen](images/victory_screen.png)
 
    - **Defeat**: Inputting the wrong key ends the game.
 
-     ![Defeat Screen](attachment://file-7M1Z8v8GaWxcqjzi286bcV2u)
+     ![Defeat Screen](images/defeat_screen.png)
 
 4. **Exit the Game**:
 
@@ -112,9 +112,7 @@ To run this game, you'll need:
 
 ## 🖼️ Gameplay Preview
 
-![Assembling and Running the Game](attachment://file-98EKORmthpWyw0DFd8e2nf0f)
-
-*Since we can't include actual screenshots here, imagine a glorious DOS interface with colorful blocks representing the keys! Use your imagination, or better yet, run the game!* 🌟
+![Assembling and Running the Game](images/assembling_running.png)
 
 ---
 
@@ -134,7 +132,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🐬 Contact
+## 📬 Contact
 
 Have questions or just want to say hi? Reach out!
 
