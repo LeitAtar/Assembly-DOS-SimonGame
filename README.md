@@ -12,7 +12,7 @@ Welcome to the assembly-coded wonderland of **SIMON**! Are you ready to test you
   - [📋 Prerequisites](#-prerequisites)
   - [💾 Installation](#-installation)
 - [🎮 How to Play](#-how-to-play)
-- [🖼️ Gameplay Preview]([#-gameplay-preview](https://github.com/LeitAtar/Assembly-DOS-SimonGame/tree/main?tab=readme-ov-file#%EF%B8%8F-gameplay-preview))
+- [🖼️ Gameplay Preview](https://github.com/LeitAtar/Assembly-DOS-SimonGame/tree/main?tab=readme-ov-file#%EF%B8%8F-gameplay-preview)
 - [🤔 Contributing](#-contributing)
 - [💄 License](#-license)
 - [📨 Contact](#-contact)
